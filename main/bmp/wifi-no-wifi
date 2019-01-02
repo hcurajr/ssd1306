@@ -1,0 +1,4 @@
+#define wifi-no-wifie_width 8
+#define wifi-no-wifie_height 8
+static unsigned char wifi-no-wifie_bits[] = {
+   0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x18};

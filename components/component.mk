@@ -1,0 +1,1 @@
+COMPONENT_SRCDIRS := i2c misc ssd1306 

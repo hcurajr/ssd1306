@@ -1,0 +1,4 @@
+#define wifi-poor_width 8
+#define wifi-poor_height 8
+static unsigned char wifi-poor_bits[] = {
+   0x00, 0x00, 0x00, 0x00, 0x00, 0x3c, 0x42, 0x5a};
